@@ -1,4 +1,4 @@
-## 🍀 Jayeono Sim (nature)  작성중
+## 🍀 Jayeon Sim (nature)  작성중
 
 ### ⛏ Tech Stack 🛠
 <img src="https://img.shields.io/badge/Java-F7DF2E?style=flat-square&logo=Java&logoColor=white"/></a>
