@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Java-F7DF2E?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
-### 📒 I'm learning ...   
+### 📒 I'm studying ...   
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
    
 #### 💬 Ask me about    
