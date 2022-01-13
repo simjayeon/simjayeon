@@ -1,9 +1,12 @@
 ## 🍀 Jayeon Sim
 
-#### ⛏ TECH STACK 🛠
+#### ⛏ Skills 🛠
 <img src="https://img.shields.io/badge/Java-f3f6f4?style=flat-square&logo=Java&logoColor=E27D14"/></a>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
+#### Tools
 <img src="https://img.shields.io/badge/Firebase-0080ff?style=flat-square&logo=Firebase&logoColor=FFDE00"/></a>
+<img src="https://img.shields.io/badge/Git-E27D14?style=flat-square&logo=Git&logoColor=white"/></a>
 
 #### 📒 STUDYING   
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
